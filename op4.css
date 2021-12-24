@@ -1,0 +1,135 @@
+.cntr img {
+	text-align: center;
+	width: auto;
+	height: auto;
+}
+.doksan {
+	width: 90%;
+	margin: 10px auto;
+	text-align: center;
+}
+
+.gri {
+	height: 62px;
+	background-color:#888888;
+	margin: auto;
+}
+
+.gri2 {
+	height: 62px;
+	background-color:#E3E3E3;
+	margin: auto;
+	align-items: center;
+}
+
+.mt0 {
+	align-items: flex-start;
+}
+
+.w317 {
+	width: 317px;
+}
+
+.box1 {
+	width: 37%;
+    background-color: rgb(126, 229, 218);
+	height: 66px;
+	margin: auto;
+	align-items: center;
+	float: left;
+	padding-top: 10px;
+}
+
+.box0 {
+	margin-top: 2px;
+	height: 70px;
+}
+
+.box2 {
+	width: 19.5%;
+    background-color: rgb(112, 204, 194);
+	height: 69px;
+	margin: auto;
+	align-items: flex-start;
+	align-self: flex-start;
+	float: left;
+	padding-top: 7px;
+	margin: 0px 1px;
+	font-weight: 100;
+	font-size: 13px;
+	padding-bottom: -20px
+}
+
+.box25 {
+	height: 66px;
+	background-color: #A900FF;
+}
+
+.box3 {
+	width: 43.3%;
+    background-color: rgb(98, 179, 170);
+	height: 76px;
+	float: left;
+	font-weight: 100;
+	font-size: 12px;
+}
+
+.w177 {
+	width: 177px;
+	height: 21px;
+	font-size: 13px;
+	align-items: flex-start;
+	align-content: flex-start;
+	justify-content: flex-start;
+	align-self: flex-start;
+	margin-bottom: 0px;
+	padding-bottom: -10px;
+}
+
+.yemail {
+  width: 177px;
+  box-sizing: border-box;
+  border: 1px solid #000;
+  background-color: #f8f8f8;
+  font-size: 16px;
+  resize:none;
+	height: 20px;
+	margin: auto;
+}
+
+textarea {
+  width: 177px;
+  height: 21px;
+  box-sizing: border-box;
+  border: 1px solid #000;
+  background-color: #f8f8f8;
+  resize: none;
+	font-size: 11px;
+}
+
+button {
+	margin-top: -10px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
